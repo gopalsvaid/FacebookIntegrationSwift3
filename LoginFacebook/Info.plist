@@ -44,7 +44,7 @@
 	<key>FacebookAppID</key>
 	<string>148936098946200</string>
 	<key>FacebookDisplayName</key>
-	<string>VipreLogin</string>
+	<string>VipreLogin </string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>fbapi</string>
